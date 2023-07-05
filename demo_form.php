@@ -140,18 +140,3 @@ function checkMember() {
 </footer>  
    
 </html>
-
-
-<?php
-/*
-https://code.tutsplus.com/articles/create-a-javascript-ajax-post-request-with-and-without-jquery--cms-39195
-
-AJAX POST Request With XHR
-
-
-https://code.tutsplus.com/articles/create-a-javascript-ajax-post-request-with-and-without-jquery--cms-39195
-
-
-*/
-
-?>
